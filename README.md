@@ -15,7 +15,7 @@ It can also work as a clone for @100daysofcode bot. :heart:
 * More features to come....
 
 ### How to Install:
-1. Download or clone this repo. Link (Updated Soon!). :file_folder:
+1. Download or clone this repo. [Dowload it from Here!](https://github.com/therohitdas/twitterbot/archive/master.zip). :file_folder:
 2. Install Tweepy by using following command - ```pip install tweepy```
 
 3. Fill out the `Credentials.py` file with relevent Keys.
