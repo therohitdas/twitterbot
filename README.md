@@ -9,7 +9,7 @@ It can also work as a clone for @100daysofcode bot. :heart:
 
 ### What it can do for you:
 
-* Copy Followers from a twitter account to your account by following them. 
+* Copy Followers: Copies follower from a twitter account to your account by following them. 
 * Favorite tweets as they get posted for all the search terms you specify.
 * Unfollow all user who don't follow you back. Comes with a safe list feature.
 * More features to come....
