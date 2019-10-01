@@ -26,4 +26,4 @@ myStreamListener = MyStreamListener()
 myStream = tweepy.Stream(auth = api.auth, listener=myStreamListener)
 
 #Change #100daysofcode with your hashtag or keyword, you can add any no. of keywords
-myStream.filter(track=['#100daysofcode'])
+myStream.filter(track=['#100daysofcode', '#js', '#nodejs', '#python'])
