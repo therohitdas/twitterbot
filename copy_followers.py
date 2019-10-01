@@ -9,7 +9,7 @@ username = "therohitdas"
 #target username =  the followers will be copied from this account
 username_target = "freecodecamp"
 #limit =  no. of time the operation will be performed, 30 is good choice
-lim = 30
+lim = 5
 
 
 
